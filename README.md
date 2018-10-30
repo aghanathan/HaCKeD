@@ -7,5 +7,5 @@
 
 ## Demo : https://youtu.be/pVXjOxabCVM
 
-<a href="https://youtu.be/pVXjOxabCVM"><img height="300px" src="https://github.com/aghanathan/HaCKeD/blob/master/screenshotz.png"></a>
+<a href="https://youtu.be/pVXjOxabCVM"><img height="500px" src="https://github.com/aghanathan/HaCKeD/blob/master/screenshotz.png"></a>
 
