@@ -1,4 +1,4 @@
-# HaCKeD
+# HaCKeD Plugin
 How To Upload WebShell On a Wordpress
 
 - [x] Upload WebShell with upload Plugin
